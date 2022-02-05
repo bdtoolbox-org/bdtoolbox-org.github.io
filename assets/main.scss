@@ -96,6 +96,10 @@ pre code {
 
 
 //  My customizations to minima/_layout.scss
+
+/**
+ * Site header
+ */
 .site-header {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
@@ -136,3 +140,46 @@ pre code {
      }
 }
 
+
+/**
+ * Site footer
+ */
+ .site-footer {
+    border-top: 1px solid black;
+    padding: $spacing-unit 0;
+    background-color: black;
+  }
+  
+.footer-heading {
+    @include relative-font-size(1.125);
+    margin-bottom: $spacing-unit / 2;
+  }
+  
+.footer-col-wrapper {
+    @include relative-font-size(0.9375);
+    color: $grey-color;
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+
+    // links
+    a {
+        color: $grey-color;
+        text-decoration: none;
+    }
+  }
+
+  .footer-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+  }
+  
+  .footer-col-2 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+  }
+  
+  .footer-col-3 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+  }
+  
