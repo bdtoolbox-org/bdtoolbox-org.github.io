@@ -1,0 +1,138 @@
+---
+
+---
+@import "minima";
+
+// Teachable Fonts
+:root{--brand_primary: #000000;--brand_secondary: #2057A8;--brand_heading: #333333;--brand_text: #333333;--brand_navbar_text: #ffffff;--brand_navbar_fixed_text: #ffffff;--brand_homepage_heading: #ffffff;--brand_course_heading: #ffffff;--brand_video_player_color: #2057A8;--font_family:Merriweather;} 
+@font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Bold.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Bold.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Bold.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-HeavyItalic.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-HeavyItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-HeavyItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-HeavyItalic.ttf") format("truetype");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Light.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Light.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Light.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Light.ttf") format("truetype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-LightItalic.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-LightItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-LightItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-LightItalic.ttf") format("truetype");
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-BoldItalic.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-BoldItalic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-BoldItalic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Heavy.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Heavy.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Heavy.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Heavy.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap; }
+  
+  @font-face {
+    font-family: 'Merriweather';
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Italic.eot");
+    src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Italic.eot?#iefix") format("embedded-opentype"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Italic.woff") format("woff"), url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap; }
+
+
+// Teachable Style Snippets
+.mybutton {
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(41,128,185);
+    padding: 5px 10px; 
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    color: white;
+}
+
+.myhover:hover {
+    background: rgb(49,75,146);
+    color: white;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+
+//  My customizations to minima/_layout.scss
+.site-header {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    min-height: $spacing-unit * 1.865;
+  
+    // Positioning context for the mobile navigation icon
+    position: relative;
+
+    background-color: black;
+    font-family: 'Merriweather';
+    font-weight:lighter;
+  }
+
+.site-title {
+    font-size: 30px;
+    font-weight:400;
+    //line-height: 30px;
+    float: left;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    color: white;
+    
+    &,
+    &:visited {
+        color: white;
+    }
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.site-nav {
+    background-color: black;
+
+    .page-link {
+      color: white;
+     }
+}
+
