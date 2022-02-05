@@ -182,4 +182,13 @@ pre code {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
   }
-  
+
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
+    flex: 1;
+    background-color: #f5f5f8;
+  }
