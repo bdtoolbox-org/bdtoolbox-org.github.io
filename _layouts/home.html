@@ -2,33 +2,16 @@
 layout: default
 ---
 
+<div class="BlueBlack">
+  <h1 style="font-family:'Times New Roman';font-size:50px;font-weight:700">Brain Dynamics Toolbox</h1>
+  <p style="font-size:16px;padding:0px 10px 30px 10px">Open software for simulating dynamical systems in neuroscience</p>
+  <button class="bannerbutton">
+  Download Version 2021a
+  </button>
+  <a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1" target="_blank" rel="noopener"></a>
+  <!-- <a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1" class="bannerbutton">Link Button</a> -->
+</div>
+
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
   {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
 </div>
