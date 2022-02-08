@@ -117,17 +117,19 @@ $content-width:    100%;
     text-align: center;
 }
 
-.BlueBlack {
-  margin: -$spacing-unit ;
-  //margin-top: -$spacing-unit;
-  //min-height: 200px;
+.BlueBlackground {
+  margin-left: -$spacing-unit ;
+  margin-right: -$spacing-unit ;
+  margin-top: -$spacing-unit;
+  margin-bottom: -$spacing-unit;
   padding: $spacing-unit*2 $spacing-unit;   /* top | right | bottom | left */
+  //padding: 0 0 0 0;
   background-image: url('BlueBlack1440x780.png');
   background-size: cover;
   background-color: transparent;
   text-align: center;
   color:white;
-  }
+}
 
 // Teachable Style Snippets
 .bannerbutton {
@@ -143,7 +145,14 @@ $content-width:    100%;
   line-height:1.0rem;  
   cursor: pointer;
   display: inline-block;
- // font-family: 'Merriweather';
+  font-family: 'Merriweather';
+}
+
+// Redfine h3 for use with testamonials
+h3 {
+  font-weight:700;
+  margin-bottom: 0;
+  margin-top: $spacing-unit;
 }
 
 .myhover:hover {
@@ -157,11 +166,6 @@ border: 1px solid #999;
 display: block;
 padding: 20px;
 }
-
-
-
-
-
 
 
 
