@@ -8,18 +8,56 @@ layout: home
 <div class="BlueBlackground" markdown="1">
 <h1 style="font-family:'Times New Roman';font-size:50px;font-weight:700">Brain Dynamics Toolbox</h1>
 <p style="font-size:18px;padding:0px 10px 25px 10px">Open software for simulating dynamical systems in neuroscience</p>
-<button class="bannerbutton">
-Download Version 2021a
+<button class="bannerbutton" style="padding:18px; border-radius:26px;">
+Under Construction
 </button>
 <a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1" target="_blank" rel="noopener"></a>
 <!-- <a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1" class="bannerbutton">Link Button</a> -->
 </div>
 
 <br>
-# Site Under Construction
+The **Brain Dynamics Toolbox** is open software for simulating custom dynamical systems in matlab. The dynamics can be explored interactively with no graphical programming effort. It was originally designed for computational neuroscience but can be applied to dynamical systems in any domain.
+
+<img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
+
+## **Differential Equations**
+The toolbox solves initial-value problems in systems of Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs). The equations are defined as matlab functions.
+
+<img src="assets/home/FitzHughNagumoCode.png" width="80%" alt="Example user-defined ODE">
+
+## **Combinatorial Power**
+The architecture allows interchangeable display panels and solvers to be applied to any model with no additional programming effort.
+
+<img src="assets/home/IdeogramTeachable.png" width="80%" alt="Hub-and-Spoke Software Architecture">
+
+## **Programmable Controls**
+The graphical controls can be manipulated from the matlab command line, allowing parameter surveys to be automated with 'for' loops.
+
+<img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
+
+## **Official Handbook**
+<img src="assets/home/PaperbackCoverArt-2021.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">
+<div width="80%">
+<button class="bannerbutton" style="width:40%; font-size:0.9rem;">
+Free Sample
+</button>
+<button class="bannerbutton" style="width:40%; font-size:0.9rem;">
+Buy on Amazon
+</button>
+</div>
+
+## **Online Courses**
+<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">
+<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">
+
+## **Community Collection**
+Share your models on the Zenodo community collection and get recognition for your work. All uploads receive a citeable DOI.
+
+<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">
+
 <br>
 
-<div class="BlueBlackground" style="text-align:left; padding-top:12px;" markdown="1">
+<div class="BlueBlackground" style="text-align:left; padding-top:12px; padding-left:75px; padding-right:75px" markdown="1">
 
 ### First Prize Winner, Dynamical Systems 2018 Software Contest.
 Society for Industrial and Applied Mathematics (SIAM), Postdoc / Junior Faculty Category.

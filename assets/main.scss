@@ -4,7 +4,7 @@
 
 // Custom values for the variables defined in mimina.scss
 $base-font-family: "Merriweather";
-$base-font-size:   14px;
+$base-font-size:   16px; //14px;
 $background-color: #f5f5f8;
 $grey-color:       #D0D0D0;
 $content-width:    100%;
@@ -104,24 +104,25 @@ $content-width:    100%;
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
-    flex: 1;
-    //background-color: #f5f5f8;
-    //font-family: 'Merriweather';
+  padding-top: 0;
+  padding-bottom: 0;
+  flex: 1;
 }
 
 /**
  * Home page
  */
 .home {
-    text-align: center;
+  text-align: center;
+  padding: 0 $spacing-unit;
+  //max-width:500px;
 }
 
 .BlueBlackground {
-  margin-left: -$spacing-unit ;
-  margin-right: -$spacing-unit ;
-  margin-top: -$spacing-unit;
-  margin-bottom: -$spacing-unit;
+  margin-left: -$spacing-unit*2 ;
+  margin-right: -$spacing-unit*2 ;
+  margin-top: -$spacing-unit*0;
+  margin-bottom: -$spacing-unit*0;
   padding: $spacing-unit*2 $spacing-unit;   /* top | right | bottom | left */
   //padding: 0 0 0 0;
   background-image: url('BlueBlack1440x780.png');
@@ -131,14 +132,14 @@ $content-width:    100%;
   color:white;
 }
 
-// Teachable Style Snippets
+// Teachable Style Button
 .bannerbutton {
   background-color: #2057a8;
   border:1px solid transparent;
-  border-radius: 30px;
+  border-radius: 16px;
   color: white;
-  min-width:250px;
-  padding:18px;
+  //min-width:250px;
+  padding:8px;
   text-align:center;
   font-size:1.0rem;
   font-weight:700;
@@ -146,6 +147,12 @@ $content-width:    100%;
   cursor: pointer;
   display: inline-block;
   font-family: 'Merriweather';
+}
+
+// Redfine h2
+h2 {
+  margin-bottom: 0;
+  margin-top: $spacing-unit;
 }
 
 // Redfine h3 for use with testamonials
@@ -167,9 +174,7 @@ display: block;
 padding: 20px;
 }
 
-
-
-// Fonts used on Teachable
+// Fonts used by Teachable
 @font-face {
   font-family: 'Merriweather';
   src: url("//assets.teachablecdn.com/fonts/merriweather/Merriweather-Bold.eot");
