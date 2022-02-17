@@ -136,7 +136,7 @@ $content-width:    100%;
 .bannerbutton {
   background-color: #2057a8;
   border:1px solid transparent;
-  border-radius: 16px;
+  border-radius: 6px;
   color: white;
   //min-width:250px;
   padding:8px;
@@ -155,7 +155,7 @@ h2 {
   margin-top: $spacing-unit;
 }
 
-// Redfine h3 for use with testamonials
+// Redfine h3 for use with testimonials
 h3 {
   font-weight:700;
   margin-bottom: 0;
@@ -173,6 +173,34 @@ border: 1px solid #999;
 display: block;
 padding: 20px;
 }
+
+/**
+ * Gallery Images
+ */
+.galleryimg {
+  border: 1px solid #999;
+  max-width: 200px;
+}
+
+/**
+ * Tables
+ */
+ table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  border-collapse: collapse;
+  border: 0px solid $background-color;
+  tr {
+    &:nth-child(even) {
+      background-color: $background-color;
+    }
+  }
+  td {
+    border: 0px solid $background-color;
+  }
+}
+
 
 // Fonts used by Teachable
 @font-face {

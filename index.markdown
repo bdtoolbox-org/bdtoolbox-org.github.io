@@ -16,7 +16,7 @@ Under Construction
 </div>
 
 <br>
-The **Brain Dynamics Toolbox** is open software for simulating custom dynamical systems in matlab. The dynamics can be explored interactively with no graphical programming effort. It was originally designed for computational neuroscience but can be applied to dynamical systems in any domain.
+The **Brain Dynamics Toolbox** is open software for interactively simulating user-defined dynamical systems in matlab without the burden of graphical programming. It was originally designed for computational neuroscience but can be applied to any domain.
 
 <img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
 
@@ -37,14 +37,14 @@ The graphical controls can be manipulated from the matlab command line, allowing
 
 ## **Official Handbook**
 <img src="assets/home/PaperbackCoverArt-2021.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">
-<div width="80%">
+<p>
 <button class="bannerbutton" style="width:40%; font-size:0.9rem;">
 Free Sample
 </button>
 <button class="bannerbutton" style="width:40%; font-size:0.9rem;">
 Buy on Amazon
 </button>
-</div>
+</p>
 
 ## **Online Courses**
 <img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">
@@ -77,7 +77,7 @@ Society for Industrial and Applied Mathematics (SIAM), Postdoc / Junior Faculty 
 ### “An intuitive and insightful platform for modelling any dynamical system”
 &mdash; Dr Darragh Walsh, Postdoctoral Researcher, DCU Insight.
 
-### “I love the Brain Dynamics Toolbox. Very intuitive way of understanding dynamical systems and exploring bifurcations!”
+### “I love the Brain Dynamics Toolbox. It is a very intuitive way of understanding dynamical systems and exploring bifurcations!”
 &mdash; Caglar Cakan, PhD student, Neural Information Processing Group, Technische Universitat Berlin.
 
 </div>
