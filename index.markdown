@@ -8,11 +8,11 @@ layout: home
 <div class="BlueBlackground" markdown="1">
 <h1 style="font-family:'Times New Roman';font-size:50px;font-weight:700">Brain Dynamics Toolbox</h1>
 <p style="font-size:18px;padding:0px 10px 25px 10px">Open software for simulating dynamical systems in neuroscience</p>
-<button class="bannerbutton" style="padding:18px; border-radius:26px;">
-Under Construction
+<a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1">
+<button class="bannerbutton" style="padding:18px; border-radius:26px; font-weight:700">
+Download Version 2021a
 </button>
-<a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1" target="_blank" rel="noopener"></a>
-<!-- <a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1" class="bannerbutton">Link Button</a> -->
+</a>
 </div>
 
 <br>
@@ -36,24 +36,27 @@ The graphical controls can be manipulated from the matlab command line, allowing
 <img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
 
 ## **Official Handbook**
-<img src="assets/home/PaperbackCoverArt-2021.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">
-<p>
-<button class="bannerbutton" style="width:40%; font-size:0.9rem;">
-Free Sample
+[<img src="assets/home/PaperbackCoverArt-2021.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2021.png)
+
+<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2021a/HandbookSample2021.pdf">
+<button class="bannerbutton" style="width:40%; font-size:1.0rem;">
+Sample Chapter
 </button>
-<button class="bannerbutton" style="width:40%; font-size:0.9rem;">
-Buy on Amazon
+</a>
+<a href="https://www.amazon.com/dp/0645066915">
+<button class="bannerbutton" style="width:40%; font-size:1.0rem;">
+Shop on Amazon
 </button>
-</p>
+</a>
 
 ## **Online Courses**
-<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">
-<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">
+[<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">](https://bdtoolbox.teachable.com/p/toolbox-basics)
+[<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Share your models on the Zenodo community collection and get recognition for your work. All uploads receive a citeable DOI.
+Share your models on the Zenodo community collection and get recognition for your work. All uploads receive a citeable digital object identifier (doi).
 
-<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">
+[<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
 <br>
 

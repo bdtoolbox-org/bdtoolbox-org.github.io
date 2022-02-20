@@ -25,8 +25,6 @@ $content-width:    100%;
     //position: relative;
 
     background-color: black;
-    //font-family: 'Merriweather';
-    //font-weight:lighter;
   }
 
 .site-title {
@@ -115,7 +113,6 @@ $content-width:    100%;
 .home {
   text-align: center;
   padding: 0 $spacing-unit;
-  //max-width:500px;
 }
 
 .BlueBlackground {
@@ -124,7 +121,6 @@ $content-width:    100%;
   margin-top: -$spacing-unit*0;
   margin-bottom: -$spacing-unit*0;
   padding: $spacing-unit*2 $spacing-unit;   /* top | right | bottom | left */
-  //padding: 0 0 0 0;
   background-image: url('BlueBlack1440x780.png');
   background-size: cover;
   background-color: transparent;
@@ -138,11 +134,10 @@ $content-width:    100%;
   border:1px solid transparent;
   border-radius: 6px;
   color: white;
-  //min-width:250px;
+  min-width:200px;
   padding:8px;
   text-align:center;
   font-size:1.0rem;
-  font-weight:700;
   line-height:1.0rem;  
   cursor: pointer;
   display: inline-block;
