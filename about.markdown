@@ -5,24 +5,22 @@ permalink: /about/
 ---
 
 ## **Brain Dynamics Toolbox**
-The latest release is **Version 2021a**. It includes bug fixes and improvements to the graphical interface.
+The current release is **Version 2021a**. It fixes a race condition in Matlab R2020b&mdash;R2021a and includes several improvements to the graphical interface.
 
 ## **Installation Requirements**
 
-Version 2021a of the Brain Dynamics Toolbox requires **MATLAB R2020a** or newer.
+Version 2021a requires **MATLAB R2020a** or newer. No specific matlab toolboxes are needed.
 
 ## **Official Handbook**
 The [Handbook for the Brain Dynamics Toolbox](https://www.amazon.com/dp/0645066915) (Heitmann &amp; Breakspear) is the official software manual.
 It can be purchased online from most bookstores.
-[Chapter 1](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2021a/HandbookSample2021.pdf) can be downloaded for free.
+[Chapter 1](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2021a/HandbookSample2021.pdf) can be downloaded for free. It describes the installation process.
 
 ## **Online Courses**
 
 **[Toolbox Basics](https://bdtoolbox.teachable.com/p/toolbox-basics)** is a beginner-level course that guides new users through the installation process and running the example models. Study time is 2 hours.
 
 **[Modeller's Workshop](https://bdtoolbox.teachable.com/p/modellers-workshop)** is an intermediate-level course for those that wish to program their own models. Study time is 8 hours. 
-
-Both courses are hosted on the [Teachable.com](https://bdtoolbox.teachable.com) platform.
 
 
 ## **Example Models**
@@ -49,5 +47,5 @@ All uploads are assigned a permanent digital object identifier (doi) that can be
 
 Previous versions of the Brain Dynamics Toolbox are archived at [zenodo.org/record/5626265](https://zenodo.org/record/5626265).
 
-## **BSD License**
-The Brain Dynamics Toolbox is open source software, distributed under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause).
+## **Open Source**
+The Brain Dynamics Toolbox software is distributed freely under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause).
