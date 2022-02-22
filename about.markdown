@@ -25,22 +25,22 @@ It can be purchased online from most bookstores.
 
 ## **Example Models**
 
-The toolbox ships with over 30 examples of ODEs, DDEs, SDEs and PDEs (Table 1.1 of the Handbook). Some of these models are animated in our online [Gallery](../Gallery).
+The toolbox ships with over 30 examples of ODEs, DDEs, SDEs and PDEs. Some of these models are featured in our online [Gallery](../Gallery). See Table 1.1 of the Handbook for the full list.
 
 ## **Citation**
 
 If you use the Brain Dynamics Toolbox in your work then please cite:
 
-* Heitmann S & Breakspear M (2021) *Brain Dynamics Toolbox* (Version 2021a). Zenodo. https://doi.org/10.5281/zenodo.5626265
+**Heitmann S & Breakspear M (2021)** *Brain Dynamics Toolbox* (Version 2021a). Zenodo. https://doi.org/10.5281/zenodo.5626265
 
-* Heitmann S & Breakspear M (2021) *Handbook for the Brain Dynamics Toolbox.* 6th Edition: Version 2021. bdtoolbox.org. Sydney, Australia. ISBN 978-0-6450669-1-3.
+**Heitmann S & Breakspear M (2021)** *Handbook for the Brain Dynamics Toolbox.* 6th Edition: Version 2021. bdtoolbox.org. Sydney, Australia. ISBN 978-0-6450669-1-3.
 
-* Heitmann S, Aburn M, Breakspear M (2017) *The Brain Dynamics Toolbox for Matlab.* Neurocomputing. Vol 315. p82-88. doi:10.1016/j.neucom.2018.06.026
+**Heitmann S, Aburn M, Breakspear M (2017)** *The Brain Dynamics Toolbox for Matlab.* Neurocomputing. Vol 315. p82-88. doi:10.1016/j.neucom.2018.06.026
 
 ## **Community Collection**
 
-Upload your models to the [bdtoolbox community collection](https://zenodo.org/communities/bdtoolbox) on Zenodo.
-All uploads are assigned a permanent digital object identifier (doi) that can be cited in preprints and preprints.
+Share your models on the [bdtoolbox community collection](https://zenodo.org/communities/bdtoolbox) on Zenodo.
+All uploads are assigned a citeable digital object identifier (doi).
 [Zenodo](https://zenodo.org) is supported by [CERN](https://home.cern).
 
 ## **Software Archives**
