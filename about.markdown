@@ -9,10 +9,10 @@ The current release is **Version 2021a**. This version fixes a race condition in
 
 ## **Installation Requirements**
 
-Version 2021a requires **MATLAB R2020a** or newer.
+The Brain Dynamics Toolbox requires **MATLAB R2020a** or newer.
 
 ## **Official Handbook**
-The [Handbook for the Brain Dynamics Toolbox](https://www.amazon.com/dp/0645066915) (Heitmann &amp; Breakspear) is the official software manual.
+The [Handbook for the Brain Dynamics Toolbox](https://www.amazon.com/dp/0645066915) is the official software manual.
 It can be purchased online from most bookstores.
 [Chapter 1](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2021a/HandbookSample2021.pdf) can be downloaded for free.
 
