@@ -16,12 +16,12 @@ Download Version 2021a
 </div>
 
 <br>
-The **Brain Dynamics Toolbox** is open software for interactively simulating user-defined dynamical systems in matlab without the burden of graphical programming. It was originally designed for computational neuroscience but can be applied to any domain.
+The **Brain Dynamics Toolbox** is open software for simulating dynamical systems in matlab without graphical programming. It was originally designed for computational neuroscience but can be applied to any domain.
 
 <img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
 
 ## **Differential Equations**
-The toolbox solves initial-value problems in systems of Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs). The equations are defined as matlab functions.
+The toolbox solves initial-value problems in systems of Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs). Users define their equations as matlab functions.
 
 <img src="assets/home/FitzHughNagumoCode.png" width="80%" alt="Example user-defined ODE">
 
