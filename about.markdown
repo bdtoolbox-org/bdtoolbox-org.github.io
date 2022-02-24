@@ -25,7 +25,7 @@ It can be purchased online from most bookstores.
 
 ## **Example Models**
 
-The toolbox ships with over 30 examples of ODEs, DDEs, SDEs and PDEs. Some of these models are featured in our online [Gallery](../Gallery). See Table 1.1 of the Handbook for the full list.
+The toolbox ships with over 30 examples of ODEs, DDEs, SDEs and PDEs. Some of these models are featured in our online [Gallery](../gallery). See Table 1.1 of the Handbook for the full list.
 
 ## **Citation**
 
