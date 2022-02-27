@@ -5,11 +5,10 @@ permalink: /about/
 ---
 
 ## **Brain Dynamics Toolbox**
-The current release is **Version 2021a**. This version fixes a race condition in Matlab R2020b&mdash;R2021a and is recommended for all users.
+**Version 2021a** is the latest release. It fixes a race condition in Matlab R2020b&mdash;R2021a and is recommended for all users.
 
 ## **Installation Requirements**
-
-The Brain Dynamics Toolbox requires **MATLAB R2020a** or newer.
+ **MATLAB R2020a** or newer is required to run the Brain Dynamics Toolbox (version 2021a). A basic installation of Matlab is sufficient. No proprietary toolboxes are required. Octave is not supported. 
 
 ## **Official Handbook**
 The [Handbook for the Brain Dynamics Toolbox](https://www.amazon.com/dp/0645066915) is the official software manual.
