@@ -8,37 +8,37 @@ layout: home
 <div class="BlueBlackground" markdown="1">
 <h1 style="font-family:'Times New Roman';font-size:50px;font-weight:700">Brain Dynamics Toolbox</h1>
 <p style="font-size:18px;padding:0px 10px 25px 10px">Open software for simulating dynamical systems in neuroscience</p>
-<a href="https://zenodo.org/record/5626265/files/bdtoolbox-2021a.zip?download=1">
+<a href="https://zenodo.org/record/6468958/files/bdtoolbox-2022a.zip?download=1">
 <button class="bannerbutton" style="padding:18px; border-radius:26px; font-weight:700">
-Download Version 2021a
+Download Version 2022a
 </button>
 </a>
 </div>
 
 <br>
-The **Brain Dynamics Toolbox** is open software for simulating bespoke dynamical systems in matlab. It was originally designed for computational neuroscience but can be applied to any domain.
+The **Brain Dynamics Toolbox** is open-source matlab software for simulating bespoke dynamical systems. Users define their system of equations as a custom matlab function. Interchangeable solvers and plotting tools can then be applied to that system with no additional programming effort.
 
 <img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
 
 ## **Differential Equations**
-The toolbox solves initial-value problems in systems of Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs). Users define their equations as matlab functions.
+The toolbox solves initial-value problems in the types of differential equations that arise in computational neuroscience. Namely, Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs).
 
 <img src="assets/home/FitzHughNagumoCode.png" width="80%" alt="Example user-defined ODE">
 
 ## **Combinatorial Power**
-The architecture allows interchangeable display panels and solvers to be applied to any model with no additional programming effort.
+The hub-and-spoke software architecture allows unlimited combinations of display panels and solvers to be applied to any model at run-time.
 
-<img src="assets/home/IdeogramTeachable.png" width="80%" alt="Hub-and-Spoke Software Architecture">
+<img src="assets/home/IdeogramWebsite.png" width="80%" alt="Hub-and-Spoke Software Architecture">
 
 ## **Programmable Controls**
-The graphical controls can be manipulated from the matlab command line, allowing parameter surveys to be automated with 'for' loops.
+The graphical controls can be manipulated from the matlab command line for rapid parameter surveys. Large-scale simulations can be scripted with command-line tools.
 
 <img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
 
 ## **Official Handbook**
-[<img src="assets/home/PaperbackCoverArt-2021.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2021.png)
+[<img src="assets/home/PaperbackCoverArt-2022.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2022.png)
 
-<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2021a/HandbookSample2021.pdf">
+<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2022a/HandbookSample2022.pdf">
 <button class="bannerbutton" style="width:40%; font-size:1.0rem;">
 Sample Chapter
 </button>
@@ -54,7 +54,7 @@ Shop on Amazon
 [<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Share your models on the Zenodo community collection and get recognition for your work. All uploads receive a citeable digital object identifier (doi).
+Models can be shared on the Zenodo community collection. All uploads receive a permanent digital object identifier (doi).
 
 [<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
