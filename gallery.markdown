@@ -41,7 +41,21 @@ permalink: /gallery/
 | [<img src="Lorenz.gif" class="galleryimg">](Lorenz.gif) | Determistic chaos in the **Lorenz Attractor**.|
 | [<img src="Pendulum.gif" class="galleryimg">](Pendulum.gif) | The **damped-and-driven pendulum**. |
 | [<img src="WaveEquation2D.gif" class="galleryimg">](WaveEquation2D.gif) | The 2D **Wave Equation** with reflecting boundary conditions.|
+| [<img src="VanDerPolDemo.gif" class="galleryimg">](VanDerPolDemo.gif) | The **Van Der Pol** relaxation oscillator.|
+| [<img src="LotkaVolterra.gif" class="galleryimg">](LotkaVolterra.gif) | The **Lotka-Volterra** predator-prey equations.|
 | [<img src="BrownianMotionArithmetic.gif" class="galleryimg">](BrownianMotionArithmetic.gif) | **Arithmetic Brownian Motion**. Drift and diffusion.|
 | [<img src="BrownianMotionGeometric.gif" class="galleryimg">](BrownianMotionGeometric.gif) | **Geometric Brownian Motion**. Multiplicative noise. Mathematical finance.|
-| [<img src="VanDerPolDemo.gif" class="galleryimg">](VanDerPolDemo.gif) | The **Van Der Pol** relaxation oscillator.|
 
+## **Strogatz Textbook Examples**
+
+| [<img src="Strogatz_5_1_1.gif" class="galleryimg">](Strogatz_5_1_1.gif) | **Example 5.1.1.** Closed orbits in the simple harmonic oscillator.|
+| [<img src="Strogatz_5_1_2.gif" class="galleryimg">](Strogatz_5_1_2.gif) | **Example 5.1.2.** A pair of uncoupled linear equations.|
+| [<img src="Strogatz_5_2_5.gif" class="galleryimg">](Strogatz_5_2_5.gif) | **Example 5.2.5.** A degenerate node has only one eigenvector.|
+| [<img src="Strogatz_5_3_1.gif" class="galleryimg">](Strogatz_5_3_1.gif) | **Example 5.3.1.** Love affairs.|
+| [<img src="Strogatz_6_3_1.gif" class="galleryimg">](Strogatz_6_3_1.gif) | **Example 6.3.1.** Saddles and stable nodes.|
+| [<img src="Strogatz_6_4.gif" class="galleryimg">](Strogatz_6_4.gif) | **Example 6.4.** Rabbits versus Sheep.|
+| [<img src="Strogatz_6_5_2.gif" class="galleryimg">](Strogatz_6_5_2.gif) | **Example 6.5.2.** Particle moving in a double well potential.|
+| [<img src="Strogatz_6_6_1.gif" class="galleryimg">](Strogatz_6_6_1.gif) | **Example 6.6.1.** System with a nonlinear centre at the origin.|
+| [<img src="Strogatz_6_6_2.gif" class="galleryimg">](Strogatz_6_6_2.gif) | **Example 6.6.2.** Symmetrical system with a homoclinic orbit.|
+| [<img src="Strogatz_6_6_3.gif" class="galleryimg">](Strogatz_6_6_3.gif) | **Example 6.6.3.** A symmetrical system that is reversible but not conservative.|
+| [<img src="Strogatz_6_7.gif" class="galleryimg">](Strogatz_6_7.gif) | **Example 6.7.** The linearly damped pendulum.|
