@@ -24,6 +24,7 @@ permalink: /gallery/
 
 ## **Spatial Models**
 
+| [<img src="WaveEquation2D.gif" class="galleryimg">](WaveEquation2D.gif) | The 2D **Wave Equation** with reflecting boundary conditions.|
 | [<img src="FHN2D_dualrotor.gif" class="galleryimg">](FHN2D_dualrotor.gif) | Initiation of spiral rotors in a sheet of **FitzHugh-Nagumo** neurons. |
 | [<img src="FHN2D_annulus.gif" class="galleryimg">](FHN2D_annulus.gif) | Arrhythmogenesis in a heterogeneous sheet of **FitzHugh-Nagumo** neurons with a tissue boundary. |
 
@@ -40,7 +41,6 @@ permalink: /gallery/
 
 | [<img src="Lorenz.gif" class="galleryimg">](Lorenz.gif) | Determistic chaos in the **Lorenz Attractor**.|
 | [<img src="Pendulum.gif" class="galleryimg">](Pendulum.gif) | The **damped-and-driven pendulum**. |
-| [<img src="WaveEquation2D.gif" class="galleryimg">](WaveEquation2D.gif) | The 2D **Wave Equation** with reflecting boundary conditions.|
 | [<img src="VanDerPolDemo.gif" class="galleryimg">](VanDerPolDemo.gif) | The **Van Der Pol** relaxation oscillator.|
 | [<img src="LotkaVolterra.gif" class="galleryimg">](LotkaVolterra.gif) | The **Lotka-Volterra** predator-prey equations.|
 | [<img src="BrownianMotionArithmetic.gif" class="galleryimg">](BrownianMotionArithmetic.gif) | **Arithmetic Brownian Motion**. Drift and diffusion.|
