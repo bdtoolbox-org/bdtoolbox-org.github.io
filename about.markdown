@@ -11,7 +11,7 @@ permalink: /about/
  A basic instalation of **MATLAB R2020a** or newer is required. Octave is not supported. 
 
 ## **Official Handbook**
-The [Handbook for the Brain Dynamics Toolbox](https://www.amazon.com/dp/0645066915) is the official software manual.
+The [Handbook for the Brain Dynamics Toolbox](https://www.amazon.com/dp/0645066923) is the official software manual.
 It can be purchased online from most bookstores.
 [Chapter 1](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2022a/HandbookSample2022.pdf) can be downloaded for free.
 
