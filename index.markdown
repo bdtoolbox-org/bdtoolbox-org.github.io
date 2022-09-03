@@ -16,7 +16,7 @@ Download Version 2022a
 </div>
 
 <br>
-The **Brain Dynamics Toolbox** is open-source matlab software for simulating bespoke dynamical systems. Users define their system of equations as a custom matlab function. Interchangeable solvers and plotting tools can then be applied to that system with no additional programming effort.
+The **Brain Dynamics Toolbox** is open-source matlab software for simulating bespoke dynamical systems in neuroscience and beyond. Users define their system of equations as a custom matlab function. Interchangeable solvers and plotting tools can then be applied to that system with no additional programming effort.
 
 <img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
 
