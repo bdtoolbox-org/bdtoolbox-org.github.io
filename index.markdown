@@ -26,12 +26,12 @@ The toolbox solves initial-value problems in the types of differential equations
 <img src="assets/home/FitzHughNagumoCode.png" width="80%" alt="Example user-defined ODE">
 
 ## **Combinatorial Power**
-The hub-and-spoke software architecture allows unlimited combinations of display panels and solvers to be applied to any model at run-time.
+The hub-and-spoke architecture allows any combination of display panels and solvers to be applied to any model at run-time.
 
 <img src="assets/home/IdeogramWebsite.png" width="80%" alt="Hub-and-Spoke Software Architecture">
 
 ## **Programmable Controls**
-The graphical controls can be manipulated from the matlab command line for rapid parameter surveys. Large-scale simulations can be scripted with command-line tools.
+The graphical controls can be manipulated from the matlab command line for rapid parameter surveys. Automated simulations can also be scripted using the toolbox's command-line tools.
 
 <img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
 

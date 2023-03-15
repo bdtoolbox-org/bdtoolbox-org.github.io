@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## **Brain Dynamics Toolbox**
-**Version 2022b** is the latest release. It includes minor bug fixes and a new example model (HopfRC).
+**Version 2022b** is the latest release. Older versions can be downloaded from [zenodo.org/record/5626265](https://zenodo.org/search?page=1&size=20&q=conceptrecid:%225625923%22&sort=-version&all_versions=True).
 
 ## **Requirements**
  **MATLAB R2020a** or newer is required. Octave is not supported.
@@ -34,13 +34,9 @@ If you use the Brain Dynamics Toolbox then please cite it.
 
 * **Heitmann S & Breakspear M (2022)** *Brain Dynamics Toolbox* (Version 2022b). Zenodo. https://doi.org/10.5281/zenodo.7070703
 
-
 * **Heitmann S & Breakspear M (2022)** *Handbook for the Brain Dynamics Toolbox.* 7th Edition: Version 2022. bdtoolbox.org. Sydney, Australia. ISBN 978-0-6450669-2-0.
 
 * **Heitmann S, Aburn M, Breakspear M (2017)** *The Brain Dynamics Toolbox for Matlab.* Neurocomputing. Vol 315. p82-88. doi:10.1016/j.neucom.2018.06.026
-
-## **Older Versions**
-Archived versions of the Brain Dynamics Toolbox can be downloaded from [zenodo.org/record/5626265](https://zenodo.org/search?page=1&size=20&q=conceptrecid:%225625923%22&sort=-version&all_versions=True).
 
 ## **Open Source License**
 The Brain Dynamics Toolbox software is distributed freely under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause).
