@@ -22,12 +22,10 @@ Online training courses for the Brain Dynamics Toolbox are hosted on the Teachab
 * **[Modeller's Workshop](https://bdtoolbox.teachable.com/p/modellers-workshop)** is an intermediate-level course for those that wish to program their own models. Study time is 8 hours. 
 
 ## **Example Models**
-The toolbox ships with 60 examples of ODEs, DDEs, SDEs and PDEs. See Table 1.1 in the Handbook for the complete list.
+The toolbox ships with 60 example models. See Table 1.1 in the Handbook for the complete list.
 
 ## **Community Models**
-Disseminate your models via the [bdtoolbox community collection](https://zenodo.org/communities/bdtoolbox) on Zenodo.
-All uploads are assigned a digital object identifier (doi) that can be cited in papers and preprints.
-[Zenodo](https://zenodo.org) is supported by [CERN](https://home.cern).
+Disseminate your models via the [Brain Dynamics Toolbox Community Collection](https://zenodo.org/communities/bdtoolbox) on Zenodo.
 
 ## **Citation**
 If you use the Brain Dynamics Toolbox then please cite it.

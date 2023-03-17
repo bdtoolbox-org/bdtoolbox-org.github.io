@@ -21,17 +21,17 @@ The **Brain Dynamics Toolbox** is open-source matlab software for simulating bes
 <img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
 
 ## **Differential Equations**
-The toolbox solves initial-value problems in the types of differential equations that arise in computational neuroscience. Namely, Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs).
+The toolbox solves initial-value problems in Ordinary Differential Equations (ODEs), Delay Differential Equations (DDEs), Stochastic Differential Equations (SDEs) and Partial Differential Equations (PDEs).
 
 <img src="assets/home/FitzHughNagumoCode.png" width="80%" alt="Example user-defined ODE">
 
 ## **Combinatorial Power**
-The hub-and-spoke architecture allows any combination of display panels and solvers to be applied to any model at run-time.
+The hub-and-spoke architecture allows unlimited combinations of display panels and numerical solvers to be applied to any model at run-time.
 
 <img src="assets/home/IdeogramWebsite.png" width="80%" alt="Hub-and-Spoke Software Architecture">
 
 ## **Programmable Controls**
-The graphical controls can be manipulated from the matlab command line for rapid parameter surveys. Automated simulations can also be scripted using the toolbox's command-line tools.
+The graphical controls can be manipulated from the matlab workspace to semi-automate parameter surveys. Fully automated simulations can be scripted with the toolbox's command-line tools.
 
 <img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
 
@@ -54,7 +54,8 @@ Shop on Amazon
 [<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Models can be shared on the Zenodo community collection. All uploads receive a permanent digital object identifier (doi).
+Models shared on Zenodo receive a citeable digital object identifier (doi).
+Zenodo is supported by CERN.
 
 [<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
