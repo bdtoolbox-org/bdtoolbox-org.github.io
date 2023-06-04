@@ -46,7 +46,8 @@ permalink: /gallery/
 | [<img src="BrownianMotionArithmetic.gif" class="galleryimg">](BrownianMotionArithmetic.gif) | **Arithmetic Brownian Motion**. Drift and diffusion.|
 | [<img src="BrownianMotionGeometric.gif" class="galleryimg">](BrownianMotionGeometric.gif) | **Geometric Brownian Motion**. Multiplicative noise. Mathematical finance.|
 
-## **Strogatz Textbook Examples**
+## **Strogatz Textbook**
+Selected examples from the 1st Edition of **Nonlinear Dynamics and Chaos** by Steven H Strogatz (1999).
 
 | [<img src="Strogatz_5_1_1.gif" class="galleryimg">](Strogatz_5_1_1.gif) | **Example 5.1.1.** Closed orbits in the simple harmonic oscillator.|
 | [<img src="Strogatz_5_1_2.gif" class="galleryimg">](Strogatz_5_1_2.gif) | **Example 5.1.2.** A pair of uncoupled linear equations.|
