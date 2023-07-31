@@ -81,6 +81,9 @@ Society for Industrial and Applied Mathematics (SIAM), Postdoc / Junior Faculty 
 ### “An intuitive and insightful platform for modelling any dynamical system”
 &mdash; Dr Darragh Walsh, Postdoctoral Researcher, DCU Insight.
 
+### "A great way to get into modeling and understanding the dynamics you thought you understood!"
+&mdash; Dr Fran Hancock, Postdoctoral Researcher, Kings College London.
+
 ### “I love the Brain Dynamics Toolbox. It is a very intuitive way of understanding dynamical systems and exploring bifurcations!”
 &mdash; Caglar Cakan, PhD student, Neural Information Processing Group, Technische Universitat Berlin.
 
