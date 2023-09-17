@@ -51,7 +51,7 @@ Shop on Amazon
 
 ## **Online Courses**
 [<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">](https://bdtoolbox.teachable.com/p/toolbox-basics)
-[<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
+[<img src="assets/home/ModellersWorkshopSep.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
 Models shared on Zenodo receive a citeable digital object identifier (doi).
