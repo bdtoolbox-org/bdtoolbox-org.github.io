@@ -51,7 +51,7 @@ Shop on Amazon
 
 ## **Online Courses**
 [<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">](https://bdtoolbox.teachable.com/p/toolbox-basics)
-[<img src="assets/home/ModellersWorkshopSep.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
+[<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
 Models shared on Zenodo receive a citeable digital object identifier (doi).
@@ -84,7 +84,7 @@ Society for Industrial and Applied Mathematics (SIAM), Postdoc / Junior Faculty 
 ### "A great way to get into modeling and understanding the dynamics you thought you understood!"
 &mdash; Dr Fran Hancock, Postdoctoral Researcher, Kings College London.
 
-### “I love the Brain Dynamics Toolbox. It is a very intuitive way of understanding dynamical systems and exploring bifurcations!”
+### “I love the Brain Dynamics Toolbox. Very intuitive way of understanding dynamical systems and exploring bifurcations!”
 &mdash; Caglar Cakan, PhD student, Neural Information Processing Group, Technische Universitat Berlin.
 
 </div>
