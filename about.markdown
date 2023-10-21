@@ -8,9 +8,9 @@ permalink: /about/
 **Version 2022b** is the latest release. It requires **MATLAB R2020a** or newer. Octave is not supported. Installation is as simple an unzipping the source code and adding its location to the Matlab search path.  Instructions are given in the handbook. The toolbox ships with 60 example models. Users can share their models on the [community collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo. If you use the Brain Dynamics Toolbox then please cite it.
 
 ## Handbook & Online Courses
-The [handbook](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2022b/HandbookSample2022.pdf) is the official guide to the Brain Dynamics Toolbox. It can be purchased from most online bookstores. Training courses are provided via the Teachable platform. [Toolbox Basics](https://bdtoolbox.teachable.com/p/toolbox-basics) is a beginner-level course that guides new users through the installation process and running the example models. The [Modeller's Workshop](https://bdtoolbox.teachable.com/p/modellers-workshop) is an intermediate-level course for those that wish to program their own models.
+The [handbook](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2022b/HandbookSample2022.pdf) is the official guide to the Brain Dynamics Toolbox. It can be purchased from most online bookstores. Training courses are hosted on the Teachable platform. [Toolbox Basics](https://bdtoolbox.teachable.com/p/toolbox-basics) is a beginner-level course that guides new users through the installation process and running the example models. The [Modeller's Workshop](https://bdtoolbox.teachable.com/p/modellers-workshop) is an intermediate-level course for those that wish to program their own models.
 
-## Citations
+## Citing the Toolbox
 **Heitmann S & Breakspear M (2022)** *Brain Dynamics Toolbox* (Version 2022b). Zenodo. https://doi.org/10.5281/zenodo.7070703
 
 **Heitmann S & Breakspear M (2022)** *Handbook for the Brain Dynamics Toolbox.* 7th Edition: Version 2022. bdtoolbox.org. Sydney, Australia. ISBN 978-0-6450669-2-0.
