@@ -8,9 +8,9 @@ layout: home
 <div class="BlueBlackground" markdown="1">
 <h1 style="font-family:'Times New Roman';font-size:50px;font-weight:700">Brain Dynamics Toolbox</h1>
 <p style="font-size:18px;padding:0px 10px 25px 10px">Open software for simulating dynamical systems in neuroscience</p>
-<a href="https://zenodo.org/record/7070703/files/bdtoolbox-2022b.zip?download=1">
+<a href="https://zenodo.org/records/10112763/files/bdtoolbox-2023a.zip?download=1">
 <button class="bannerbutton" style="padding:18px; border-radius:26px; font-weight:700">
-Download Version 2022b
+Download Version 2023a
 </button>
 </a>
 </div>
@@ -38,7 +38,7 @@ The graphical controls can be manipulated from the matlab workspace to semi-auto
 ## **Official Handbook**
 [<img src="assets/home/PaperbackCoverArt-2022.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2022.png)
 
-<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2022b/HandbookSample2022.pdf">
+<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2023a/HandbookSample2023.pdf">
 <button class="bannerbutton" style="width:40%; font-size:1.0rem;">
 Sample Chapter
 </button>
