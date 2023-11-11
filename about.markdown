@@ -25,5 +25,4 @@ The toolbox ships with 60 example models. Users can also share their models with
 The Brain Dynamics Toolbox software is distributed freely under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause).
 
 ## Archives
-Older versions of the software can be downloaded from [zenodo.org/record/5626265](https://zenodo.org/search?page=1&size=20&q=conceptrecid:%225625923%22&sort=-version&all_versions=True).
-
+Older versions of the software can be downloaded from [zenodo.org/doi/10.5281/zenodo.5625923](https://zenodo.org/search?q=parent.id:5625923&sort=version&f=allversions:true).
