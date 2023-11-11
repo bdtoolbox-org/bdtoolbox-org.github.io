@@ -13,10 +13,10 @@ permalink: /about/
 
 
 ## Handbook & Online Courses
-The [handbook](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2022b/HandbookSample2022.pdf) is the official guide to the Brain Dynamics Toolbox. It can be purchased from most online bookstores. Training courses are hosted on the Teachable platform. [Toolbox Basics](https://bdtoolbox.teachable.com/p/toolbox-basics) is a beginner-level course that guides new users through the installation process and running the example models. The [Modeller's Workshop](https://bdtoolbox.teachable.com/p/modellers-workshop) is an intermediate-level course for those that wish to program their own models.
+The [handbook](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2023a/HandbookSample2023.pdf) is the official guide to the Brain Dynamics Toolbox. It can be purchased from most online bookstores. The handbook is augmented by online training courses. [Toolbox Basics](https://bdtoolbox.teachable.com/p/toolbox-basics) is a beginner-level course that guides new users through the installation process and running the example models. The [Modeller's Workshop](https://bdtoolbox.teachable.com/p/modellers-workshop) is an intermediate-level course for those that wish to program their own models. The courses are hosted by Teachable.
 
 ## Models
-The toolbox ships with 60 example models. Users can also share their models with the [bdtoolbox community](https://zenodo.org/communities/bdtoolbox) on Zenodo.
+The toolbox ships with 60 example models. Users can also share their models with the [Brain Dynamics Toolbox Community](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo.
 
 ## Follow us on Mastodon
 <iframe src="https://mastodon.au/@bdtoolbox/111159253561798440/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.au/embed.js" async="async"></script>
