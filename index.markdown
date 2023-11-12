@@ -36,7 +36,7 @@ The graphical controls can be manipulated from the matlab workspace to semi-auto
 <img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
 
 ## **Official Handbook**
-[<img src="assets/home/PaperbackCoverArt-2022.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2022.png)
+[<img src="assets/home/PaperbackCoverArt-2023.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2023.png)
 
 <a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2023a/HandbookSample2023.pdf">
 <button class="bannerbutton" style="width:40%; font-size:1.0rem;">
@@ -54,8 +54,7 @@ Shop on Amazon
 [<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Models shared on Zenodo receive a citeable digital object identifier (doi).
-Zenodo is supported by CERN.
+Users can upload their models to the Community Collection hosted by Zenodo. All uploads to Zenodo are citeable.
 
 [<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
