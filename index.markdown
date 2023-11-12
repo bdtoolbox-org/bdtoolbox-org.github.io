@@ -54,7 +54,7 @@ Shop on Amazon
 [<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Users can upload their models to the Community Collection hosted by Zenodo. All uploads to Zenodo are citeable.
+Users can share their models on the [Community Collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo. All uploads are citeable.
 
 [<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
