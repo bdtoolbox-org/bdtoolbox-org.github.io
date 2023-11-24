@@ -43,7 +43,7 @@ The graphical controls can be manipulated from the matlab workspace to semi-auto
 Sample Chapter
 </button>
 </a>
-<a href="https://www.amazon.com/dp/0645066923">
+<a href="https://www.amazon.com/dp/0645066931">
 <button class="bannerbutton" style="width:40%; font-size:1.0rem;">
 Shop on Amazon
 </button>
