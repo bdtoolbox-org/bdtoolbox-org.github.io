@@ -18,10 +18,6 @@ The [handbook](https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2023
 ## Models
 The toolbox ships with 60 example models. Users can also share their models on the [Community Collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo. All uploads to Zenodo are assigned a DOI that can be cited in pre-prints and peer-reviewed papers.
 
-## Follow us
-Follow **@bdtoolbox@mastodon.au** on Mastodon
-<iframe src="https://mastodon.au/@bdtoolbox/111496115406717244/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.au/embed.js" async="async"></script>
-
 ## Open Source License
 The Brain Dynamics Toolbox software is distributed freely under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause).
 
