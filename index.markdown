@@ -50,11 +50,11 @@ Shop on Amazon
 </a>
 
 ## **Online Courses**
-[<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">](https://bdtoolbox.teachable.com/p/toolbox-basics)
+[<img src="assets/home/ToolboxBasics.png" width="40%" alt="Toolbox Basics Course">](https://www.youtube.com/playlist?list=PL58jUwza3j0pf51M9PM44ev__62BNFvWg)
 [<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Users can share their models on the [Community Collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo. All uploads are citeable.
+Users can share their models on the [Brain Dynamics Toolbox Community Collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo.
 
 [<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
