@@ -8,15 +8,15 @@ layout: home
 <div class="BlueBlackground" markdown="1">
 <h1 style="font-family:'Times New Roman';font-size:50px;font-weight:700">Brain Dynamics Toolbox</h1>
 <p style="font-size:18px;padding:0px 10px 25px 10px">Open software for simulating dynamical systems in neuroscience</p>
-<a href="https://zenodo.org/records/10112763/files/bdtoolbox-2023a.zip?download=1">
+<a href="https://zenodo.org/records/18136242/files/bdtoolbox-2026a.zip?download=1">
 <button class="bannerbutton" style="padding:18px; border-radius:26px; font-weight:700">
-Download Version 2023a
+Download Version 2026a
 </button>
 </a>
 </div>
 
 <br>
-The **Brain Dynamics Toolbox** is open-source matlab software for simulating bespoke dynamical systems in neuroscience and beyond. Users define their system of equations as a custom matlab function. Interchangeable solvers and plotting tools can then be applied to that system with no additional programming effort.
+The **Brain Dynamics Toolbox** is open-source matlab software for simulating bespoke dynamical systems in neuroscience and related fields. Users define their system of equations as a custom matlab function. Interchangeable solvers and plotting tools can then be applied to that system with no additional programming effort.
 
 <img src="assets/home/MorrisLecarHopf.gif" width="80%" alt="The Brain Dynamics Toolbox in action">
 
@@ -36,9 +36,9 @@ The graphical controls can be manipulated from the matlab workspace to semi-auto
 <img src="assets/home/WorkspaceCommands.png" width="80%" alt="Workspace Commands">
 
 ## **Official Handbook**
-[<img src="assets/home/PaperbackCoverArt-2023.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2023.png)
+[<img src="assets/home/PaperbackCoverArt-2026.png" width="80%" alt="Handbook for the Brain Dynamics Toolbox">](assets/home/PaperbackCoverArt-2026.png)
 
-<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2023a/HandbookSample2023.pdf">
+<a href="https://github.com/bdtoolbox-org/bdtoolbox/releases/download/2026a/HandbookSample2026.pdf">
 <button class="bannerbutton" style="width:40%; font-size:1.0rem;">
 Sample Chapter
 </button>
