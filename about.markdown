@@ -17,9 +17,6 @@ The handbook is the offical guide to the Brain Dynamics Toolbox. It can be purch
 Lectures from the [Toolbox Basics](https://www.youtube.com/playlist?list=PL58jUwza3j0pf51M9PM44ev__62BNFvWg) course are now available on YouTube.
 The Modellers Workshop has closed.
 
-### Models
-The toolbox ships with 60 example models. Users can publish their models on the Zenodo [Community Collection](https://zenodo.org/communities/bdtoolbox).
-
 ### Citation
 If you use the toolbox then please cite:
 : **Heitmann S, Aburn M, Breakspear M (2017)** *The Brain Dynamics Toolbox for Matlab.* Neurocomputing. Vol 315. p82-88. doi:10.1016/j.neucom.2018.06.026
