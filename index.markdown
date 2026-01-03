@@ -54,7 +54,7 @@ Shop on Amazon
 [<img src="assets/home/ModellersWorkshop.png" width="40%" alt="Modellers Workshop">](https://bdtoolbox.teachable.com/p/modellers-workshop)
 
 ## **Community Collection**
-Users can share their models on the [Brain Dynamics Toolbox Community Collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo.
+Users can publish their models on the [Brain Dynamics Toolbox Community Collection](https://zenodo.org/communities/bdtoolbox) hosted by Zenodo.
 
 [<img src="assets/home/zenodo-gradient-200.png" alt="Zenodo">](https://zenodo.org/communities/bdtoolbox)
 
