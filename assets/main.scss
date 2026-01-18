@@ -157,12 +157,12 @@ h3 {
   margin-top: $spacing-unit;
 }
 
-// Redefine blockquote
+// Redefine blockquote for use with citations
 blockquote {
   color: #000000;
-  border-left: 4px solid #FFFFFF;
   font-style: normal;
 }
+blockquote > :last-child { margin-bottom: 0; }
 
 .myhover:hover {
   background: rgb(49,75,146);
