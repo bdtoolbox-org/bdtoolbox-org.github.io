@@ -157,6 +157,13 @@ h3 {
   margin-top: $spacing-unit;
 }
 
+// Redefine blockquote
+blockquote {
+  color: #000000;
+  border-left: 4px solid #FFFFFF;
+  font-style: normal;
+}
+
 .myhover:hover {
   background: rgb(49,75,146);
   color: white;
