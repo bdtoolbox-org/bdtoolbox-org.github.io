@@ -158,11 +158,11 @@ h3 {
 }
 
 // Redefine blockquote for use with citations
+.page blockquote,
 blockquote {
   color: #000000;
   font-style: normal;
 }
-blockquote > :last-child { margin-bottom: 0; }
 
 .myhover:hover {
   background: rgb(49,75,146);
