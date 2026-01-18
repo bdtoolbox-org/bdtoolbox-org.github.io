@@ -160,7 +160,8 @@ h3 {
 // Redefine blockquote for use with citations
 .page blockquote,
 blockquote {
-  color: #000000 !important;
+  color: #000000;
+  border-left: 4px solid $background-color;
   font-style: normal;
 }
 
